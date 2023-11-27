@@ -1,4 +1,4 @@
-# Database Transformation, Getting Insights and Solution Implementation Using SQL
+# Database Transformation, Getting Insights and Solution Implementation With SQL
 In the heart of an African community grappling with a water crisis, this project serves as a beacon of hope. Leveraging the power of SQL, I meticulously cleaned and explored a water survey database, delving deep into its intricacies to unearth nuggets of insight that paved the way for sustainable solutions.
 
 Employing advanced SQL clauses such as CTE, RANK, PARTITION, SUBQUERIES, LEFT JOINS, INNER JOIN, GROUP BY, CASE WHEN, IF, ELSE and whole lot more commands, i navigated through multiple tables, weaving together data with precision. Window functions and aggregation techniques played a crucial role in drawing meaningful insights and conclusions from the datasets.

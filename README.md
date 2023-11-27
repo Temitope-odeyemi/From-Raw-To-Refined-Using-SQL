@@ -9,13 +9,13 @@ Throughout the project, the focus was on maximizing the capabilities of SQL to t
 
 Join me on this journey where i used SQL transform data into answers, providing a roadmap for addressing the water crisis and fostering positive change in the communities.
 
-# TASK 1
+# Task 1
 I used functions to clean, aggregate, and analyse data from the water survey database.
-# TASK 2
+# Task 2
 I retrieved data from multiple tables in the water survey database. 
-# TASK 3
+# Task 3
 I used functions, filters, and advanced SQL commands to analyse the datasets and created a table in the database that helps in implementing recommended plans.
 
-# ENTITY RELATIONSHIP DIAGRAM (ERD)
+# Entity Relationship Diagram (ERD)
 This ERD that i created helped in visualizing relationships between the tables, knowing how to join tables and also locating primary and foreign keys.
 ![image](https://github.com/Temitope-odeyemi/From-Raw-to-Refined-Database-Transformation-Getting-Insights-and-Solution-Implementation-using-SQL/assets/113670117/abf0a355-161f-4be6-92bd-cbc5ad6ac01d) 

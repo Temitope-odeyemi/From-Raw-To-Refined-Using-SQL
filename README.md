@@ -18,4 +18,4 @@ I used functions, filters, and advanced SQL commands to analyse the datasets and
 
 # Entity Relationship Diagram (ERD)
 This ERD that i created helped in visualizing relationships between the tables, knowing how to join tables and also locating primary and foreign keys.
-![image](https://github.com/Temitope-odeyemi/From-Raw-to-Refined-Database-Transformation-Getting-Insights-and-Solution-Implementation-using-SQL/assets/113670117/abf0a355-161f-4be6-92bd-cbc5ad6ac01d) 
+![image](https://github.com/Temitope-odeyemi/From-Raw-to-Refined-Database-Transformation-Getting-Insights-and-Solution-Implementation-using-SQL/assets/113670117/abf0a355-161f-4be6-92bd-cbc5ad6ac01d)
